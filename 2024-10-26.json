@@ -1,0 +1,26 @@
+{
+  "name": "Ethan Clayton",
+  "age": 22,
+  "address": {
+    "street": "Urhaz Manor",
+    "city": "Miupene",
+    "state": "CT",
+    "zip": "43290"
+  },
+  "contact": {
+    "phone": "(721) 762-1969",
+    "servicePhone": "800841353"
+  },
+  "birthday": "1966-12-26T08:34:26.793Z",
+  "ip": "85.208.104.43",
+  "foo": "bar",
+  "profile": {
+    "about": "Pedudih so lu wupziuli igu tiik milvurok osezuva le beg mes zudba fijsum neve goni vele ahric od. Coz omaop kij owdet igugo meobme na pa dojled koesooh far vipewofa sijacat muoto beka. Narnup tipuil soklunin ric wav utwuji vu ir wacofor wiaroeri ukiura hotzot ul siktunifo.",
+    "bio": "Ba boj macwod cihufjaj ka kunec wajagi idinudu cu mu jedi piilini bo ik tatnefan duzdugmo. Fud laug ja lidmunban dodmisik wik jonutu gi uzsuje fammojsu vajpi mihenwi. Mogni jofuj varbapin kasubin eh zosgola muzot tultumit ijodif iru ucfivpi hag hiniskur."
+  },
+  "apiKey": "53f9d228e5222cce456ee25da6bd4681188f10565ce118834ff2f87b793162ff",
+  "currency": {
+    "code": "TMT",
+    "name": "Turkmenistan Manat"
+  }
+}
