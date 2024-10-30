@@ -1,0 +1,26 @@
+{
+  "name": "Rodney Nguyen",
+  "age": 35,
+  "address": {
+    "street": "Fevek Circle",
+    "city": "Tepnolab",
+    "state": "IN",
+    "zip": "25181"
+  },
+  "contact": {
+    "phone": "(350) 872-2296",
+    "servicePhone": "800984162"
+  },
+  "birthday": "1970-09-02T05:18:23.167Z",
+  "ip": "220.33.175.89",
+  "foo": "bar",
+  "profile": {
+    "about": "Nopogo wekapbu sadoca poktok ezna du wot geze mojge cafcicip zofgu cupi. Tev inar pebvavur efekorub som terfewfe ha japcit actenzim oj hiero pawfal rudcis. Ervissa zoc egi wu zupocsub jarsanaru upi badu kar hijfa jodweh werwezu fivgifot mozew bu. Tufmavac ok ehbina kowbamud nicoh atoiw felkifkav mudbibaj bazvu pak pezuju has rumoz kouseh teguhug nenu romakpu jiiluwa. Ek joce hev nosejovu giki fujule kuskib beejuru if ro ihteifu edla cuni.",
+    "bio": "Maeropun jide gop ugelma depdos lo los zusoh wuszukbak oniufmat uca og an docja. Dentokasa wawha doom videpnit nocjol uze nuhuhjak rizoum iti cujak jas pacus tidzagur goibiniw. Asji ihohuhi hed afmig nimgiw puwuru ciflajdu bamimpeg kaf mo hoc rum bovgi zugi lu hoil suk."
+  },
+  "apiKey": "666626ed12d678bed3761014fdc82e79707fe520d51b77e19752ff38bd1cccb5",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}
