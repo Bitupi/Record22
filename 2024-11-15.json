@@ -1,0 +1,26 @@
+{
+  "name": "Nettie Daniel",
+  "age": 20,
+  "address": {
+    "street": "Guile Glen",
+    "city": "Uklasvow",
+    "state": "NY",
+    "zip": "11302"
+  },
+  "contact": {
+    "phone": "(771) 507-5097",
+    "servicePhone": "800486748"
+  },
+  "birthday": "1969-05-24T08:22:32.074Z",
+  "ip": "164.0.187.141",
+  "foo": "bar",
+  "profile": {
+    "about": "Ubhe sowib rurujet lajozu zuzwal uhe to fof gicsiede sonicfa ujusole litud halzoldus ave. Beono ah vecifo canurha belpevtuz lu pimuwjij cuzzoc kagogo toge gulvu towew simag zawe. Fan hiezce co huag owedo kuko eletuwcah ubu udigog somiffo avrelop tofih lose vaggod kuwmi jezwev hozava huzazgib.",
+    "bio": "Tubugil wogawej vuud za fa vetu dijauf ehaviujo itfewvu man ro hafic banebiga nazmacbod we. Ipuoli gaz hisebi ifemana oki coowo rigroav hakiuto hen cub berdija ce. Jah juktecu recafu hah buf gatmu ti zuumere juspi go numgeb lojes rojebtes gi dezug neril etrej."
+  },
+  "apiKey": "356a37e159cbd82a2021048bcca16c073ca3dc3dfa760ed934f9c00bd29f88ce",
+  "currency": {
+    "code": "GTQ",
+    "name": "Guatemala Quetzal"
+  }
+}
