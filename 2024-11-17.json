@@ -1,0 +1,26 @@
+{
+  "name": "Manuel Cook",
+  "age": 40,
+  "address": {
+    "street": "Fogmud Circle",
+    "city": "Sivucor",
+    "state": "DC",
+    "zip": "57637"
+  },
+  "contact": {
+    "phone": "(715) 394-8425",
+    "servicePhone": "800841961"
+  },
+  "birthday": "1988-05-30T06:58:49.624Z",
+  "ip": "99.197.188.159",
+  "foo": "bar",
+  "profile": {
+    "about": "Pedge sedva da cimofudik niz tevac cojoh duzu acadu gidod nefga uc. Petuz wi nug ruz ji pesajpar nacudaz bel gu raocaki dupnahhas tera uvpoon dad himibcem. Hav du tivuv zefik paza so wircedguj weti jopjeuki ebgog voed imeilafo tigadab benoj gu. Ongi apezuido jepebeli ibuve gog hul se dirme vossikol joz gok ahoruf wori nizcopde aba. Vijsita ofiput se ih vona vomezti ceonofof bamhih uwfufa agviszu foac tefculsu piz zajzil ti. Owoned vij vi azopjef lilopa lasamiwi le zivgefje wik we he keb ido.",
+    "bio": "Ejifa moce pilu ija tinim bahgon tim fa soswa fozub ig dusor wiwbin izpa mafzow moner dedemu. Wuljola ahrinugo cez vurbeuv ufilidko nicet ke bicwive mivfam puh gegbog dupteskaw hechu buj maddorer cavwicwu oh. Liwfikzo bo togcouwi ni nekbabow fisi evik meil tamaf iwafegboj su kopifisu cok. Ibogoavi ihunuvvom hovca bodoera im osi cota so kajsun rigniudu til tocedtaw tijomisuv vubazi pilro elumtud um cigisezig. Gujov anikav fevakju powow ulaucgu osefulur vet co kes niw zuomivi eta geedacoj ockeb daf noino lela bicrimad. Wukabidil kojheufu buh vizvohik kintatof jorun liccob baesuvis dahgen maf naztocli ihvod rifu aw coc leepa gosoav napwaz."
+  },
+  "apiKey": "b67249814d03b64b62ad0b38059bb96bfc6c271e5cd134cfb58571cf7f58b83f",
+  "currency": {
+    "code": "IRR",
+    "name": "Iran Rial"
+  }
+}
