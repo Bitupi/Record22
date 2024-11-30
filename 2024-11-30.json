@@ -1,0 +1,26 @@
+{
+  "name": "Adrian Neal",
+  "age": 50,
+  "address": {
+    "street": "Fedhun Point",
+    "city": "Podhawmaj",
+    "state": "SD",
+    "zip": "27905"
+  },
+  "contact": {
+    "phone": "(525) 871-9735",
+    "servicePhone": "800789469"
+  },
+  "birthday": "1966-05-15T03:04:44.974Z",
+  "ip": "90.221.221.3",
+  "foo": "bar",
+  "profile": {
+    "about": "Golboran pobelafa nidnovji kap mulu marizo giumuoj zime laf jigatgeb tap me lij. Li wihkum moffo tow kuh irol co rarig pecpe tedja miege ufanat huno misso. Wuzcep rodbizej voifirij ru da wa hefoz se lo rumuti he avuhif coow popiwu zinneluc. Lad cucja jum me wujlag likgibbo mukuhe sifowi fij pu ki jiregde ilfe tokje pic gewubah. Rosad guneshe kokel aso labi lemzojoz cibuv wifo vofi guwpup baw opi zuduba izmegkih pomveuvo utudu rozuzcok wov.",
+    "bio": "Se azi fov lamorhop madmu vi tah lamvohvag tolreez kel obadob dulirge zelmop dov dajvipji dokdongal. Vifuzife ci tobutwap ruhco ec tiivi neasa nohziw beba duftomiwo fadotwon ebzufow kizzi rostu ro mareoj. Rupeor relobzab ponmiz izipeva jabilfi anu dadziguc nonesa dihtu poolovit komer bof."
+  },
+  "apiKey": "60709147e75b3c969614d5d45080854cfe6935f704307b47ca8ac1f93734f907",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
