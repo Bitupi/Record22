@@ -1,0 +1,26 @@
+{
+  "name": "Shane Davidson",
+  "age": 54,
+  "address": {
+    "street": "Kuggo Road",
+    "city": "Holiczab",
+    "state": "MO",
+    "zip": "12400"
+  },
+  "contact": {
+    "phone": "(964) 666-2367",
+    "servicePhone": "800781291"
+  },
+  "birthday": "1992-01-09T06:50:44.808Z",
+  "ip": "249.9.194.142",
+  "foo": "bar",
+  "profile": {
+    "about": "Homaj ewisoz ugdo hogakog la nomo nit ezjobcub va fihac wipkaski bapobu co ruknaubo la zo hulca. Semi vegiri hiw wal gogamdi ecaig gilalbaw zegkentu zajcubun polobewad fo ajopal pucafana saku juwo. Butees oju jasjiis ebietta jubviwnak neekuele his wetsetrel demcefora onrik puttin riz ku suzistuh cit. Hureziga arosuza ji idsicit ko go vemva wibino de tin zi cezrec dutar cubli ela.",
+    "bio": "Wu efoajrul le biget telotza sipopub toluah roko uvkiho ecda rupdog febkecles gejze lom. Muarof wabelu ebe huva utzitut iri fud boesa pivgen peruf howivora te. Hagih hoiga bo ariabuec odebaroz echikwo obokekwet se udoduozo fewaho lo docum urheki er."
+  },
+  "apiKey": "313c677a821a0c5138a3e5faf94f031437822d7b350ded5c2bb336680b634ccb",
+  "currency": {
+    "code": "LBP",
+    "name": "Lebanon Pound"
+  }
+}
