@@ -1,0 +1,25 @@
+{
+    "name": "Brooke Reed",
+    "age": 107,
+    "address": {
+        "street": "David Crescent",
+        "city": "North Jasminemouth",
+        "state": "Oklahoma",
+        "zip": "34961"
+    },
+    "contact": {
+        "phone": "(210)505-8806x3951",
+        "servicePhone": "800202130"
+    },
+    "birthday": "1918-04-07",
+    "ip": "185.13.3.182",
+    "foo": "bar",
+    "profile": {
+        "about": "Democratic black time success. Significant kid because traditional hear class. Boy figure spring rate.",
+        "bio": "Agency vote spend read while. Try billion tonight including decision. Scientist collection as traditional and health media."
+    },
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}
