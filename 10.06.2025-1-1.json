@@ -1,0 +1,25 @@
+{
+    "name": "Amy Mann",
+    "age": 32,
+    "address": {
+        "street": "Johnson Canyon",
+        "city": "New Meganshire",
+        "state": "Colorado",
+        "zip": "93661"
+    },
+    "contact": {
+        "phone": "4686953858",
+        "servicePhone": "800377329"
+    },
+    "birthday": "1993-02-04",
+    "ip": "92.113.73.67",
+    "foo": "bar",
+    "profile": {
+        "about": "Yard decade town. Film whose seat write identify. Break nearly glass sell.\nMore whom yard population worker. Safe yet hear exist seek old sound.",
+        "bio": "Weight know newspaper choose. Program interview religious whether machine. Whose quality including structure."
+    },
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}
