@@ -1,0 +1,25 @@
+{
+    "name": "Justin Holland",
+    "age": 75,
+    "address": {
+        "street": "King Forge",
+        "city": "Ruizview",
+        "state": "Delaware",
+        "zip": "92274"
+    },
+    "contact": {
+        "phone": "001-554-795-1874x22870",
+        "servicePhone": "800583970"
+    },
+    "birthday": "1950-26-04",
+    "ip": "76.166.97.168",
+    "foo": "bar",
+    "profile": {
+        "about": "For analysis approach use involve party. Upon break remain hot use firm great. There chance relationship administration those buy statement.\nThough employee wall return south movement maybe.",
+        "bio": "Truth hope art agreement author ok ball. Center someone window then rock need.\nAnimal tree everybody. Own game summer. Moment score involve per.\nTake country western thus least."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}
