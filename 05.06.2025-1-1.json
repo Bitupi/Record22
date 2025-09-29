@@ -1,0 +1,25 @@
+{
+    "name": "Melissa Mitchell",
+    "age": 87,
+    "address": {
+        "street": "Brown Causeway",
+        "city": "East Jeffreyhaven",
+        "state": "Wisconsin",
+        "zip": "18699"
+    },
+    "contact": {
+        "phone": "498.283.5371",
+        "servicePhone": "800119270"
+    },
+    "birthday": "1938-31-07",
+    "ip": "134.136.183.33",
+    "foo": "bar",
+    "profile": {
+        "about": "Family visit exist baby audience family. Open stand night apply gas.\nEver relate nature stop money finish. Identify way state job.",
+        "bio": "Bed media story few sit last.\nBetter response concern drop positive role bring well."
+    },
+    "currency": [
+        "UAH",
+        "Ukrainian hryvnia"
+    ]
+}

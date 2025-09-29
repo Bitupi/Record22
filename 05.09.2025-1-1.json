@@ -1,0 +1,25 @@
+{
+    "name": "Nancy Lopez",
+    "age": 91,
+    "address": {
+        "street": "Luna Burgs",
+        "city": "Kevinmouth",
+        "state": "Maryland",
+        "zip": "20758"
+    },
+    "contact": {
+        "phone": "001-841-411-8860x2086",
+        "servicePhone": "800513464"
+    },
+    "birthday": "1934-19-02",
+    "ip": "7.128.48.221",
+    "foo": "bar",
+    "profile": {
+        "about": "Project attention significant news Democrat.\nMention notice itself once claim put. Industry last opportunity call campaign play. Ahead compare still blood friend.",
+        "bio": "Respond or choice claim.\nDemocratic buy buy lead. Health east but without. Push dream may six consumer color include.\nHappy particular pressure admit ok light. Painting scene bag too energy."
+    },
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}
