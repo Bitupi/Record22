@@ -1,0 +1,25 @@
+{
+    "name": "Steven Cochran",
+    "age": 106,
+    "address": {
+        "street": "Thomas Forge",
+        "city": "North Julieport",
+        "state": "Arkansas",
+        "zip": "29064"
+    },
+    "contact": {
+        "phone": "(993)871-7755x229",
+        "servicePhone": "800383808"
+    },
+    "birthday": "1919-22-04",
+    "ip": "59.198.72.250",
+    "foo": "bar",
+    "profile": {
+        "about": "Head door school. His major per cultural possible. Color suffer wear.\nClass after return can have. More stuff future area tell. Democrat fight rich property others them game.",
+        "bio": "Best activity outside economic fine call. Focus rock successful wait age fact."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
