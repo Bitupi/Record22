@@ -1,0 +1,25 @@
+{
+    "name": "Vincent Ramirez",
+    "age": 57,
+    "address": {
+        "street": "Dustin Pine",
+        "city": "Lake Annashire",
+        "state": "Wisconsin",
+        "zip": "71127"
+    },
+    "contact": {
+        "phone": "+1-772-237-6599x2104",
+        "servicePhone": "800413761"
+    },
+    "birthday": "1968-22-09",
+    "ip": "32.30.45.220",
+    "foo": "bar",
+    "profile": {
+        "about": "Hope wear care entire game thing. Meet skill last cup scientist.\nDoctor return nature. Road trade popular as. Style threat be.",
+        "bio": "Bit indicate design fly. Authority successful news world environment ahead. History it finish system involve party."
+    },
+    "currency": [
+        "BIF",
+        "Burundian franc"
+    ]
+}
