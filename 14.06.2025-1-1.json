@@ -1,0 +1,25 @@
+{
+    "name": "Cathy Thomas",
+    "age": 59,
+    "address": {
+        "street": "Nichole Key",
+        "city": "North Janemouth",
+        "state": "New Mexico",
+        "zip": "49910"
+    },
+    "contact": {
+        "phone": "001-532-488-4762x420",
+        "servicePhone": "800785959"
+    },
+    "birthday": "1966-14-08",
+    "ip": "1.37.22.97",
+    "foo": "bar",
+    "profile": {
+        "about": "End keep explain provide court season glass our. Help real nature improve. Voice American hair movie.\nScore full if also least far understand.",
+        "bio": "Behind loss member away service actually. Actually economy number network.\nNeed early head what hand city. Easy also about they technology. North bit student direction catch."
+    },
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}
