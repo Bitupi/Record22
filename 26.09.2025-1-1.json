@@ -1,0 +1,25 @@
+{
+    "name": "Courtney Foster",
+    "age": 92,
+    "address": {
+        "street": "Brown Keys",
+        "city": "Harrisberg",
+        "state": "Florida",
+        "zip": "09155"
+    },
+    "contact": {
+        "phone": "904-351-2523x711",
+        "servicePhone": "800401230"
+    },
+    "birthday": "1933-09-04",
+    "ip": "95.95.50.252",
+    "foo": "bar",
+    "profile": {
+        "about": "American continue cost decide dinner should poor. Film card even half election. Act claim skill admit nice somebody.",
+        "bio": "Animal brother just instead. Soon short key better company. Your eight father fight knowledge enough."
+    },
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}

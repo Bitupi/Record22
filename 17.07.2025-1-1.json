@@ -1,0 +1,25 @@
+{
+    "name": "Erik Logan",
+    "age": 51,
+    "address": {
+        "street": "Hannah Isle",
+        "city": "Jamesborough",
+        "state": "Oregon",
+        "zip": "77579"
+    },
+    "contact": {
+        "phone": "(530)602-6059x15177",
+        "servicePhone": "800754355"
+    },
+    "birthday": "1974-08-02",
+    "ip": "91.111.5.158",
+    "foo": "bar",
+    "profile": {
+        "about": "Wall conference big several down cultural list. Radio question us over including story.\nEnough plant north field agree need poor former. Expect allow it consider.",
+        "bio": "Easy security leave since forward much. Partner couple school administration will board.\nBoth student budget magazine agree. Less political ability safe success. Chance there put these under measure."
+    },
+    "currency": [
+        "LBP",
+        "Lebanese pound"
+    ]
+}
