@@ -1,0 +1,25 @@
+{
+    "name": "Howard Nichols",
+    "age": 79,
+    "address": {
+        "street": "Koch Plains",
+        "city": "Brownbury",
+        "state": "Arizona",
+        "zip": "28213"
+    },
+    "contact": {
+        "phone": "876.836.1878",
+        "servicePhone": "800795650"
+    },
+    "birthday": "1946-16-11",
+    "ip": "41.92.222.93",
+    "foo": "bar",
+    "profile": {
+        "about": "Lose per also those church guess yourself.\nStrong political we mean short government. Month above thousand car when store tough.",
+        "bio": "Exist window no me. Together democratic improve trial still marriage back child."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}

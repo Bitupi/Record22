@@ -1,0 +1,25 @@
+{
+    "name": "Mrs. Elizabeth Dean",
+    "age": 89,
+    "address": {
+        "street": "John Dam",
+        "city": "Wallacehaven",
+        "state": "Oregon",
+        "zip": "03223"
+    },
+    "contact": {
+        "phone": "(898)890-1498",
+        "servicePhone": "800674905"
+    },
+    "birthday": "1936-14-05",
+    "ip": "71.163.246.61",
+    "foo": "bar",
+    "profile": {
+        "about": "Buy design feel source. Forget create exist guy talk figure sometimes. Various way single loss suffer.",
+        "bio": "Moment yes matter example out according section behind. Cover oil wonder close old deep. North method tax year yet parent."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}

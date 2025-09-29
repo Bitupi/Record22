@@ -1,0 +1,25 @@
+{
+    "name": "Lori Cole",
+    "age": 100,
+    "address": {
+        "street": "Robert Curve",
+        "city": "Alyssaland",
+        "state": "Indiana",
+        "zip": "84617"
+    },
+    "contact": {
+        "phone": "440.479.4970",
+        "servicePhone": "800347760"
+    },
+    "birthday": "1925-21-06",
+    "ip": "170.207.78.9",
+    "foo": "bar",
+    "profile": {
+        "about": "Rate end grow near well project against find. Kitchen mean yes travel create. Writer and particular fine base order.",
+        "bio": "Able recent until organization. Commercial you should interest finally baby institution. Knowledge new future wall year."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
