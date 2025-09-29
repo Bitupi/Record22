@@ -1,0 +1,25 @@
+{
+    "name": "Monica Hatfield",
+    "age": 30,
+    "address": {
+        "street": "Amber Motorway",
+        "city": "Paigeton",
+        "state": "Wisconsin",
+        "zip": "53492"
+    },
+    "contact": {
+        "phone": "+1-521-488-6525",
+        "servicePhone": "800638143"
+    },
+    "birthday": "1995-29-12",
+    "ip": "80.205.157.252",
+    "foo": "bar",
+    "profile": {
+        "about": "Show bad image probably in pick wear. Later thank experience two ago.\nPeople near performance yes store model. Knowledge political toward recently party finish.",
+        "bio": "Can leader me early sense family build. Reason help news read ever could. Voice particular as make machine sport image."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
